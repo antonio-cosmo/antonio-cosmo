@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Antônio Cosmo
+<p>Passionate about technology and challenges.</p>
 <div >
-  <p>Passionate about technology and challenges.</p>
   <a href="https://github.com/antonio-cosmo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonio-cosmo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-cosmo&layout=compact&langs_count=7&theme=dark"/>
