@@ -19,7 +19,7 @@
   
 <div>
   <a href = "mailto:antoniocosmosilvaneto@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/antônio-cosmo-da-silva-neto-444883207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/antonio-cosmo-444883207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/antonio-cosmo/antonio-cosmo/blob/output/github-contribution-grid-snake.svg)
 </div>
